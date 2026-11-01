@@ -1,4 +1,4 @@
-# Task Tracker: PostgreSQL
+# Task Tracker: Docker
 
 REST API для управления задачами на базе Spring Boot и PostgreSQL
 
